@@ -1,4 +1,6 @@
-Summary: this is a different summary
+Summary (in main) : this is a different summary
+Summary( in branch): I am learning about branches in github
+
 Hi
 My name is mohammed ibrahim awad
 Bye
